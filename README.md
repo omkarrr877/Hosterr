@@ -24,7 +24,4 @@ Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell t
 
 If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ). 
 
-### Fonts Used
-
-https://fonts.google.com/specimen/Lato
-https://fonts.google.com/specimen/Playfair+Display
+### Visit Here:- https://omkarrr877.github.io/Hosterr/
