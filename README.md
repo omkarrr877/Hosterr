@@ -24,4 +24,5 @@ Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell t
 
 If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ). 
 
-### Visit Here:- https://omkarrr877.github.io/Hosterr/
+### Visit Here:- Github- https://omkarrr877.github.io/Hosterr/
+                 Netlify- https://admiring-curran-72bdf3.netlify.app/
