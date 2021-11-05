@@ -1,0 +1,134 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+.body{
+    background-color: rgb(230, 207, 165);
+    height: 100vh;
+    width: 100vw;
+}
+.navbar{
+    height: 90px;
+    padding: 190px;
+    margin-top: 20px;
+}
+.nav-link{
+    font-size: large;
+    font-weight: 500;
+}
+.signin{
+    text-decoration: none;
+    color: #000;
+    margin-right: 19px;
+}
+.hiring{
+    background: linear-gradient(to right, #ffcc99 0%, #ff3300 100%);
+    padding: 5px;
+    margin-left: -340px; 
+    position: absolute;
+    color: #fff;
+    border-radius: 19px;
+    text-decoration: none;
+}
+.hiring:hover{
+    background: linear-gradient(to right, #ffcc99 0%, #ff3300 100%);
+    padding: 5px;
+    margin-left: -340px; 
+    position: absolute;
+    color: #fff;
+    border-radius: 19px;
+    text-decoration: none;
+}
+.join_waitlist{
+
+    text-align: center;
+   padding: 18px;
+    color: aliceblue;
+    border-radius: 7px;
+    text-decoration: none;
+    background-color: #1370e2;
+    font-weight: bold;
+}
+.join_waitlist:hover{
+    text-align: center;
+   padding: 18px;
+    color: aliceblue;
+    border-radius: 7px;
+    text-decoration: none;
+    background-color: #1370e2;
+    font-weight: bold;
+}
+
+.heroimg{
+margin-left: 190px;
+}
+.heroimg .hero{
+    width: 370px;
+    position: absolute;
+    z-index: 1000;
+}
+.heroimg .blue{
+    -ms-transform: rotate(-45deg); /* IE 9 */
+  transform: rotate(-45deg);
+  position: absolute;
+  width: 370px;
+  z-index: -1;
+}
+.heroimg .purple{
+    -ms-transform: rotate(-15deg); /* IE 9 */
+  transform: rotate(-15deg);
+  position: absolute;
+  width: 370px;
+  z-index: 1;
+}
+.heroimg .pink{
+    -ms-transform: rotate(-30deg); /* IE 9 */
+  transform: rotate(-30deg);
+  position: absolute;
+  width: 370px;
+  z-index: 1;
+}
+.container{
+    margin-top: 100px;
+}
+.hero__section h1{
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+.d-flex .search{
+    width: 300px;
+}
+.d-flex{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.content{
+    display: flex;
+}
+@media only screen and (max-width: 600px) {
+    .hero__section h1{
+        font-size: 30px;
+    }
+    *{
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        overflow: visible;
+    }
+    .navbar{
+        height: 0;
+        padding: 0;
+        position: absolute;
+        margin-bottom: 55px;
+        color: white;
+    }
+    .hiring{
+        margin-left: 0;
+    }
+    .hero__section .heroimg{
+        margin: 0;
+        width: 30%;
+    }
+  }
